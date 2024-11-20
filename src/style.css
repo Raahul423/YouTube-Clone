@@ -1,0 +1,48 @@
+@media only screen and (max-width: 450px){
+.write-section{
+    display: none;
+}
+
+.menu img{
+    display: none;
+}
+.obj-1 img,.mic,.search-2,.arrows,.Shorts{
+    display: none;
+}
+
+.searchicon{
+    background-color: transparent;
+    border: none;
+    right: 0px;
+    position: fixed;
+}
+.bell{
+    position: relative;
+    right:.5em ;
+}
+
+.contant-section{
+    left: 0;
+}
+.contant-2{
+    width: 100%;
+    padding: 1rem 0;
+}
+.thumbnail img{
+    width: -webkit-fill-available;
+}
+
+.Hero-section{
+    width: -webkit-fill-available;
+    padding-right: 0px;
+    top: 7.5em;
+}
+.vedios{
+    height: fit-content;
+}
+.last-part{
+    margin: .5em 2em 0em 7em;
+}
+
+}
+    
