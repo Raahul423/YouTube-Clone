@@ -64,6 +64,8 @@ function App() {
           <h1>Home</h1>
         </div>
         <div className='value'>
+
+          {/* testing change */}
           <FontAwesomeIcon icon={faBolt} className='icon-home' />
           <h1>Shorts</h1>
         </div>
