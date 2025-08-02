@@ -1,11 +1,6 @@
 import thumbnail1 from './Thumbnails/VlPiVmYuoqw-HD.jpg'
 import thumbnail2 from './Thumbnails/Screenshot 2024-09-14 010532.png'
 
-
-import shorts1 from './Shorts Images/short1.svg'
-
-import shorts2 from './Shorts Images/short2.svg'
-
 import icon1 from './Shorts Images/youtubeicon.png.svg'
 import icon2 from './Shorts Images/shorts.png.svg'
 import icon3 from './Shorts Images/circle shorts.png.svg'
@@ -19,8 +14,6 @@ import menu from '../assets/menu_34dp_E8EAED_FILL0_wght400_GRAD0_opsz40.png'
 export const Images = {
     thumbnail1,
     thumbnail2,
-    shorts1,
-    shorts2,
     icon1,
     icon2,
     icon3,

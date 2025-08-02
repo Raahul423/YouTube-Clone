@@ -549,16 +549,6 @@ const App = () => {
 
           <div className='Shorts'>
 
-            <div className='short-heading'>
-              <nav className='short1'>
-                <img src={Images.shorts1} />
-                <p>Shorts</p>
-              </nav>
-              <nav style={{ filter: "brightness(1) invert(1)", cursor: "pointer" }}>
-                <img src={Images.shorts2} />
-              </nav>
-            </div>
-
             <div className='short-vedio'>
               <div className='vedio1 01'>
                 <div className='shortts'>
